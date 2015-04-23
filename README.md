@@ -60,8 +60,8 @@ export RAVELLO_TRAINING_HOME=/home/myUser/ravello-training
 In the root directory, run:  
 
 ```
-config/startup_static_server.sh
-config/startup_rest_server.sh
+config/start_static_server.sh
+config/start_rest_server.sh
 ```
 
 Now you can access the application locally at:  
